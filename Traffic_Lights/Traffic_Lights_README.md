@@ -63,6 +63,8 @@ I actually started out writing this with a `millis()`-based non-blocking state m
 - [ ] Rework as a `millis()`-based state machine so it's non-blocking
 - [ ] Add a pedestrian crossing button
 - [ ] Add a vehicle sensor (IR or ultrasonic) for demand-based switching instead of a fixed timer
+- [ ] Add a config.json file
+- [ ] Add a Safe-State Fallback
 
 ## Build Photos
 
