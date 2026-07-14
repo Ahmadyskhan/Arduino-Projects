@@ -6,7 +6,7 @@ build/
 *.bin
 *.map
  
-# PlatformIO (in case you switch to it later)
+# PlatformIO 
 .pio/
 .pioenvs/
 .piolibdeps/
